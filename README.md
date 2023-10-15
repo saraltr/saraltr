@@ -1,5 +1,6 @@
 <h2>Hi there 👋</h2>
 I'm Sara Latorre
+
 <i>Currently:</i> Software Development student at Brigham Young Idaho
 
 __🔭 I’m currently working on:__
