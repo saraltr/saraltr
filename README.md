@@ -10,6 +10,7 @@ __🔭 I’m currently working on:__
 __🌱 I’m currently learning:__
 - RESTful Apis
 - PHP/SQL
+- Angular
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact)
 
