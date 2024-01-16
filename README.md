@@ -4,13 +4,12 @@ I'm Sara Latorre
 - <i>Currently:</i> Software Development student at Brigham Young Idaho
 
 __🔭 I’m currently working on:__
-- Backend PHP/SQL PHPMOTORS web app
-- Web Services with MongoDB & NodeJs
+- FullStack project using React
 
 __🌱 I’m currently learning:__
-- RESTful Apis
-- PHP/SQL
+- React
 - Angular
+- Django
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact)
 
