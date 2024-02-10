@@ -4,7 +4,7 @@ I'm Sara Latorre
 - <i>Currently:</i> Software Development student at Brigham Young Idaho
 
 __🔭 I’m currently working on:__
-- FullStack project using React
+- FullStack project using React/Next.js & Prisma
 
 __🌱 I’m currently learning:__
 - React
