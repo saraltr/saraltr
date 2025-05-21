@@ -1,15 +1,37 @@
 <h2>Hi there 👋</h2>
-I'm Sara Latorre
+I'm **Sara Latorre**
 
-- <i>Currently:</i> Software Development student at Brigham Young Idaho
+🎓 Currently a Software Development student at Brigham Young University–Idaho 
+💻 Front-end + Back-end developer with a strong foundation in:
+
+- **Front-end**: HTML, CSS, JavaScript, TypeScript  
+- **Back-end**: PHP, Python, C#, Node.js, Express  
+- **Frameworks & Tools**: .NET, Blazor Server, MongoDB, GraphQL, SQL, Docker  
+- **UI/UX**: Responsive interfaces, accessibility standards, and user-focused design  
+- **Other**: Git, GitHub, Azure
 
 __🔭 I’m currently working on:__
-- FullStack project using React/Next.js & Prisma
+- 🌐 Personal portfolio website  
+- 💼 Full-stack project using **React/Next.js** & **Prisma**  
 
 __🌱 I’m currently learning:__
-- React
-- Angular
-- Django
+- 🔧 Angular and modern front-end frameworks  
+- 🧠 Advanced architecture (MVC, REST, GraphQL)  
+- 🐳 Docker & software testing  
+- 👩‍💻 .NET & Blazor for full-stack app development
+
+  __📫 Let’s connect:__  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sara-latorremurcia/)  
+- 🌐 [Portfolio](https://saraltr-portfolio.vercel.app/) 
+- 📧 [your.email@example.com](mailto:saralatorre97@gmail.com)
+
+---
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraltr&show_icons=true&theme=default)
+
+--- 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact)
 
