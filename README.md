@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-I'm **Sara Latorre**
+I'm Sara Latorre
 
 🎓 Currently a Software Development student at Brigham Young University–Idaho 
 💻 Front-end + Back-end developer with a strong foundation in:
