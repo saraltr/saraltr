@@ -31,7 +31,29 @@ __🌱 I’m currently learning:__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=saraltr&theme=default)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraltr&show_icons=true&theme=default)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=saraltr&repo=your-repo-name)
+
+---
+
+### 🚀 Latest Project: ProSupply
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=saraltr&repo=ProSupply)
+
+**ProSupply** is a full-stack B2B supplier platform built with **Blazor** and **.NET**. It provides tiered membership access, supplier dashboards, order and quote management, and dynamic company listings for businesses and suppliers.
+
+🔑 **Key Features:**
+- Tiered membership access system
+- Supplier dashboards for managing orders and quotes
+- Dynamic company listings and profile views
+- Real-time quote and order management
+
+🔧 **Tech Stack:**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-9440fa?style=for-the-badge&logo=blazor&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+🔗 [View GitHub Repo](https://github.com/saraltr/ProSupply)
+
 
 
 
