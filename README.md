@@ -30,7 +30,7 @@ __🌱 I’m currently learning:__
 __📫 Let’s connect:__  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sara-latorremurcia/)  
 - 🌐 [Portfolio](https://saraltr-portfolio.vercel.app/) 
-- 📧 [your.email@example.com](mailto:saralatorre97@gmail.com)
+- 📧 [saralatorre97@gmail.com](mailto:saralatorre97@gmail.com)
 
 ---
 ### 📊 GitHub Stats
