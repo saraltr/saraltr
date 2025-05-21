@@ -2,6 +2,7 @@
 I'm Sara Latorre
 
 __🎓 Currently a Software Development student at Brigham Young University–Idaho__
+
 __💻 Front-end + Back-end developer with a strong foundation in:__
 
 - **Front-end**:  
