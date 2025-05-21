@@ -29,11 +29,11 @@ __🌱 I’m currently learning:__
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=saraltr&theme=default)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraltr&show_icons=true&theme=default)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=saraltr&repo=your-repo-name)
 
---- 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact)
 
 <!--
 **saraltr/saraltr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
