@@ -20,7 +20,7 @@ __🌱 I’m currently learning:__
 - 🐳 Docker & software testing  
 - 👩‍💻 .NET & Blazor for full-stack app development
 
-  __📫 Let’s connect:__  
+__📫 Let’s connect:__  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sara-latorremurcia/)  
 - 🌐 [Portfolio](https://saraltr-portfolio.vercel.app/) 
 - 📧 [your.email@example.com](mailto:saralatorre97@gmail.com)
@@ -29,11 +29,10 @@ __🌱 I’m currently learning:__
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=default)
-![GitHub Contribution Calendar](https://github.com/saraltr/github-contribution-grid-snake.svg)
+![GitHub Contribution Calendar](https://gh-calendar.rschristian.dev)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=saraltr&theme=default)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraltr&show_icons=true&theme=default)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saraltr&theme=github)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=saraltr.visitor-badge)
+
 
 
 ---
