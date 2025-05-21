@@ -35,10 +35,6 @@ __📫 Let’s connect:__
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com/?user=saraltr&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraltr&show_icons=true&theme=default)
-
-
 
 ---
 
