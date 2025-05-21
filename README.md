@@ -63,6 +63,7 @@ __📫 Let’s connect:__
 ![Blazor](https://img.shields.io/badge/Blazor-9440fa?style=for-the-badge&logo=blazor&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 🔗 [View GitHub Repo](https://github.com/saraltr/ProSupply)
 
