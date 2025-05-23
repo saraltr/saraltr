@@ -26,7 +26,7 @@ __💻 Front-end + Back-end developer with a strong foundation in:__
 
 __🔭 I’m currently working on:__
 - 🌐 Personal portfolio website  
-- 💼 ![Full-stack website using **React/Next.js** & **Prisma**](https://github.com/saraltr/eCulture)
+- 🖼️ [Cultural events full-stack website using **React/Next.js** & **Prisma**](https://github.com/saraltr/eCulture)
 - 📚 Bookclub full-stack app using **React/Next.js** & **SQL**
 
 __🌱 I’m currently learning:__
