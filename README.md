@@ -26,14 +26,12 @@ __💻 Front-end + Back-end developer with a strong foundation in:__
 
 __🔭 I’m currently working on:__
 - 🌐 Personal portfolio website  
-- 🖼️ [Cultural events full-stack website using **React/Next.js** & **Prisma**](https://github.com/saraltr/eCulture)
-- 📚 Bookclub full-stack app using **React/Next.js** & **SQL**
+- 📚 Seminary Study Application using **React/Next.js**, **Prisma** & **GraphQL**
 
 __🌱 I’m currently learning:__
-- 🔧 Angular and modern front-end frameworks  
-- 🧠 Advanced architecture (MVC, REST, GraphQL)  
 - 🐳 Docker & software testing  
 - 👩‍💻 .NET & Blazor for full-stack app development
+- 📈 Data Analysis with Python & Pandas
 
 __📫 Let’s connect:__  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sara-latorremurcia/)  
