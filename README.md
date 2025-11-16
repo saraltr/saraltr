@@ -1,11 +1,11 @@
-<h2 align="center">Hi there 👋, I'm Sara Latorre</h2>
+<h2 align="center">Hi there 👋, I'm Sara</h2>
 
 🎓 **Software Development student at Brigham Young University–Idaho**  
 💻 **Full-stack developer passionate about building user-friendly applications**
 
 ---
 
-### 🧠 About Me
+### About Me
 - 🌐 Currently developing my **personal portfolio**
 - 📚 Building a **Seminary Study App** with **React/Next.js**, **Prisma**, and **GraphQL**
 - 🌱 Learning **Docker**, **.NET/Blazor**, and **Data Analysis with Python & Pandas**
@@ -89,8 +89,9 @@ It provides membership tiers, supplier dashboards, and real-time order/quote man
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=default)
+### GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saraltr&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
