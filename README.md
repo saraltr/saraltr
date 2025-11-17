@@ -91,7 +91,7 @@ It provides membership tiers, supplier dashboards, and real-time order/quote man
 ### GitHub Stats
 
 #### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraltr&layout=compact&theme=tokyonight&hide_border=true)
 
 #### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=saraltr&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
